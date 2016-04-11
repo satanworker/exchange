@@ -1,2 +1,2 @@
-# exchange
-UI for safe exchange
+# electron-app
+Electron app for bitcoin project. To run this app all you need is to do git clone, cd in "public" directory which stands for our frontend framework (angular 2 in this case), do npm install and compile angular (like go with npm start in there, it will compile ts into js files), then cd in root directory of app and then npm install && npm start. All this is done for prototyping for sure, for release we'll make them installable packages.
